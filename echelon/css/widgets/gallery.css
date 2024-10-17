@@ -1,0 +1,36 @@
+.gallery-template img {
+	padding-bottom: 15px
+}
+
+.video-icon {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	width: 50px;
+	height: 50px;
+	padding: 0 !important;
+}
+
+.fancybox-type-iframe .fancybox-nav {
+    width: 80px;
+}
+
+.fancybox-type-iframe .fancybox-nav span {
+    visibility: visible;
+    opacity: 0.7;
+}
+
+.fancybox-type-iframe .fancybox-nav:hover span {
+    opacity: 1;
+}
+
+.fancybox-type-iframe .fancybox-next {
+    right: -80px;
+}
+
+.fancybox-type-iframe .fancybox-prev {
+    left: -80px;
+}
