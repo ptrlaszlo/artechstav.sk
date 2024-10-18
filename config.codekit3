@@ -81,17 +81,17 @@
       "oF" : 2,
       "pg" : 0
     },
-    "\/app\/dlazby-a-obklady.html" : {
+    "\/app\/dlazby-a-obklady.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/dlazby-a-obklady.html",
       "oF" : 0
     },
-    "\/app\/dvere-a-zarubne.html" : {
+    "\/app\/dvere-a-zarubne.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/dvere-a-zarubne.html",
@@ -120,41 +120,41 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/app\/elektricke-a-akumulatorove-naradie.html" : {
+    "\/app\/elektricke-a-akumulatorove-naradie.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/elektricke-a-akumulatorove-naradie.html",
       "oF" : 0
     },
-    "\/app\/fasadne-izolacie.html" : {
+    "\/app\/fasadne-izolacie.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/fasadne-izolacie.html",
       "oF" : 0
     },
-    "\/app\/fasadne-obklady.html" : {
+    "\/app\/fasadne-obklady.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/fasadne-obklady.html",
       "oF" : 0
     },
-    "\/app\/fasadne-omietky-a-farby.html" : {
+    "\/app\/fasadne-omietky-a-farby.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/fasadne-omietky-a-farby.html",
       "oF" : 0
     },
-    "\/app\/fasady.html" : {
+    "\/app\/fasady.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/fasady.html",
@@ -210,9 +210,17 @@
       "oAP" : "\/generated\/fonts\/glyphicons-halflings-regular.woff2.html",
       "oF" : 0
     },
-    "\/app\/hruba-stavba.html" : {
+    "\/app\/footer.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/generated\/footer.html",
+      "oF" : 0
+    },
+    "\/app\/hruba-stavba.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/hruba-stavba.html",
@@ -2679,9 +2687,9 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/app\/index.html" : {
+    "\/app\/index.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/index.html",
@@ -2709,49 +2717,49 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/app\/klampiarske-vyrobky.html" : {
+    "\/app\/klampiarske-vyrobky.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/klampiarske-vyrobky.html",
       "oF" : 0
     },
-    "\/app\/kominy-trojzlozkove.html" : {
+    "\/app\/kominy-trojzlozkove.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/kominy-trojzlozkove.html",
       "oF" : 0
     },
-    "\/app\/kontakt.html" : {
+    "\/app\/kontakt.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/kontakt.html",
       "oF" : 0
     },
-    "\/app\/krytiny-plechove.html" : {
+    "\/app\/krytiny-plechove.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/krytiny-plechove.html",
       "oF" : 0
     },
-    "\/app\/krytiny-tvrde.html" : {
+    "\/app\/krytiny-tvrde.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/krytiny-tvrde.html",
       "oF" : 0
     },
-    "\/app\/kupelne.html" : {
+    "\/app\/kupelne.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/kupelne.html",
@@ -2849,81 +2857,81 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/app\/maltoviny-lepidla-potery.html" : {
+    "\/app\/maltoviny-lepidla-potery.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/maltoviny-lepidla-potery.html",
       "oF" : 0
     },
-    "\/app\/naradie-a-spojovaci-material.html" : {
+    "\/app\/naradie-a-spojovaci-material.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/naradie-a-spojovaci-material.html",
       "oF" : 0
     },
-    "\/app\/ochrana-osobnych-udajov.html" : {
+    "\/app\/ochrana-osobnych-udajov.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/ochrana-osobnych-udajov.html",
       "oF" : 0
     },
-    "\/app\/plotove-a-betonove-tvarnice.html" : {
+    "\/app\/plotove-a-betonove-tvarnice.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/plotove-a-betonove-tvarnice.html",
       "oF" : 0
     },
-    "\/app\/podlahy-a-dvere.html" : {
+    "\/app\/podlahy-a-dvere.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/podlahy-a-dvere.html",
       "oF" : 0
     },
-    "\/app\/podlahy-a-parkety.html" : {
+    "\/app\/podlahy-a-parkety.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/podlahy-a-parkety.html",
       "oF" : 0
     },
-    "\/app\/ponuka-produktov.html" : {
+    "\/app\/ponuka-produktov.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/ponuka-produktov.html",
       "oF" : 0
     },
-    "\/app\/porobetonove-tvarnice.html" : {
+    "\/app\/porobetonove-tvarnice.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/porobetonove-tvarnice.html",
       "oF" : 0
     },
-    "\/app\/profil-spolocnosti.html" : {
+    "\/app\/profil-spolocnosti.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/profil-spolocnosti.html",
       "oF" : 0
     },
-    "\/app\/rezacky-miesacky-lesenie.html" : {
+    "\/app\/rezacky-miesacky-lesenie.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/rezacky-miesacky-lesenie.html",
@@ -2937,65 +2945,65 @@
       "oAP" : "\/generated\/robots.txt",
       "oF" : 0
     },
-    "\/app\/sadrokartonove-systemy.html" : {
+    "\/app\/sadrokartonove-systemy.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/sadrokartonove-systemy.html",
       "oF" : 0
     },
-    "\/app\/sanita.html" : {
+    "\/app\/sanita.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/sanita.html",
       "oF" : 0
     },
-    "\/app\/stavebne-naradie-pre-remeselnikov.html" : {
+    "\/app\/stavebne-naradie-pre-remeselnikov.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/stavebne-naradie-pre-remeselnikov.html",
       "oF" : 0
     },
-    "\/app\/strechy.html" : {
+    "\/app\/strechy.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/strechy.html",
       "oF" : 0
     },
-    "\/app\/stresne-okna.html" : {
+    "\/app\/stresne-okna.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/stresne-okna.html",
       "oF" : 0
     },
-    "\/app\/sucha-vystavba.html" : {
+    "\/app\/sucha-vystavba.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/sucha-vystavba.html",
       "oF" : 0
     },
-    "\/app\/tehly.html" : {
+    "\/app\/tehly.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/tehly.html",
       "oF" : 0
     },
-    "\/app\/tepelne-izolacie.html" : {
+    "\/app\/tepelne-izolacie.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/tepelne-izolacie.html",
@@ -3608,20 +3616,26 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/app\/zamestnanie.html" : {
+    "\/app\/zamestnanie.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/zamestnanie.html",
       "oF" : 0
     },
-    "\/app\/zamkove-dlazby.html" : {
+    "\/app\/zamkove-dlazby.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/zamkove-dlazby.html",
+      "oF" : 0
+    },
+    "\/generated" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/generated\/generated",
       "oF" : 0
     },
     "\/README" : {
