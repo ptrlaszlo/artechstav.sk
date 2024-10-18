@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/.github\/workflows\/static.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/generated\/.github\/workflows\/static.yml",
+      "oF" : 1
+    },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
@@ -216,6 +224,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/generated\/footer.html",
+      "oF" : 0
+    },
+    "\/app\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/generated\/header.html",
       "oF" : 0
     },
     "\/app\/hruba-stavba.kit" : {
