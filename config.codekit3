@@ -3113,7 +3113,7 @@
       "oAP" : "\/generated\/uploads\/files\/katalog_Tehelne_2022_nahlad-web.pdf",
       "oF" : 0
     },
-    "\/app\/uploads\/files\/Peakston Newsletter FINÁLE 102021 TLAč_2.pdf" : {
+    "\/app\/uploads\/files\/Peakston Newsletter FINÁLE 102021 TLAč_2.pdf" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
@@ -3137,7 +3137,7 @@
       "oAP" : "\/generated\/uploads\/files\/Porotherm_cennik_a_katalog.pdf",
       "oF" : 0
     },
-    "\/app\/uploads\/files\/Premac - Katalóg.pdf" : {
+    "\/app\/uploads\/files\/Premac - Katalóg.pdf" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
@@ -3646,6 +3646,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/generated\/zamkove-dlazby.html",
+      "oF" : 0
+    },
+    "\/CNAME" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/generated\/CNAME",
       "oF" : 0
     },
     "\/generated" : {
